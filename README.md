@@ -1,11 +1,15 @@
-<h1 style="color: #44AEFB;" align="center"> 👨🏻‍💻 Vasundhara Saxena </h1>
-<h3 align="center">Responsible and well disciplined with good judgement, time management and oriented schedule. Frequently praised as hardworking by my peers. Demonstrated a commitment to continuous learning and professional development. With a passion for problem-solving and a coolaborative approach to work, committed to deliver high quality results that drive business success. Seeking new challenges everyday and opportunities to grow my skills.</h3>
+![logo](https://github.com/vasundharasaxena/vasundharasaxena/blob/main/HI%2C%20I%20AM%20VASUNDHARA%20SAXENA.png)
+<h1 style="color: #44AEFB;" align="center"> 👨🏻‍💻 VASUNDHARA SAXENA </h1>
+<h3 align="center"><i>Responsible and well disciplined with good judgement, time management and oriented schedule. Frequently praised as hardworking by my peers. Demonstrated a commitment to continuous learning and professional development. With a passion for problem-solving and a coolaborative approach to work, committed to deliver high quality results that drive business success. Seeking new challenges everyday and opportunities to grow my skills.</i></h3>
+
+
 <img align = "right" alt = "coding" width = "500" src = "https://media.tenor.com/6PUE1PAsXQUAAAAd/scaler-create-impact.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasundharasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="vasundharasaxena" /> </p>
 
-- 🔭 I’m currently pursuing my bachelor's [in Computer science with specialization in](Data Science (AI & ML))
+- 🔭 I’m currently pursuing my bachelor's [in CS with specialization in](Data Science (AI & ML))
 
-- 🌱 I’m currently learning and practicing **python, frontend, backend development**
+- 🌱 I’m currently learning and practicing **full stack development**
 
 - 📫 How to reach me **ishisaxena2003@gmail.com**
 
@@ -24,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasundharasaxena&show_icons=true&locale=en&layout=compact" alt="vasundharasaxena" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasundharasaxena&show_icons=true&locale=en" alt="vasundharasaxena" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vasundharasaxena&show_icons=true&locale=en" alt="vasundharasaxena" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasundharasaxena&" alt="vasundharasaxena" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vasundharasaxena&" alt="vasundharasaxena" /></p>
