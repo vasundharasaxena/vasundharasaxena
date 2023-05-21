@@ -3,11 +3,11 @@
 <h3 align="center"><i>Responsible and well disciplined with good judgement, time management and oriented schedule. Frequently praised as hardworking by my peers. Demonstrated a commitment to continuous learning and professional development. With a passion for problem-solving and a coolaborative approach to work, committed to deliver high quality results that drive business success. Seeking new challenges everyday and opportunities to grow my skills.</i></h3><br>
 
 
-<img align = "right" alt = "coding" width = "300" src = "https://media.tenor.com/6PUE1PAsXQUAAAAd/scaler-create-impact.gif">
+<img align = "right" alt = "coding" width = "350" src = "https://media.tenor.com/6PUE1PAsXQUAAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasundharasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="vasundharasaxena" /> </p>
 
-- 🔭 I’m currently pursuing my bachelor's [in CS with specialization in](Data Science (AI & ML))
+- 🔭 I’m currently pursuing my bachelor's [in CS with](Data Science (AI & ML))
 
 - 🌱 I’m currently learning and practicing **full stack development**
 
