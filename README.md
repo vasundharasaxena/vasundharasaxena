@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasundharasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="vasundharasaxena" /> </p>
 
-- 🔭 I’m currently pursuing my bachelor's [in CS with](Data Science (AI & ML))
+- 🔭 Completed my B.Tech in Computer Science Enginerring (Data Science (AI & ML)) with UpGrad in 2024
 
 - 🌱 I’m currently learning and practicing **full stack development**
 
-- 📫 How to reach me **ishisaxena2003@gmail.com**
+- 📫 You can to reach me out through my e-mail **ishisaxena2003@gmail.com ** or phone number **+91 9305340512**
 
 - ⚡ Fun fact **I am funny & sarcastic😅**
 
