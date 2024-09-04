@@ -1,4 +1,4 @@
-![logo](https://github.com/vasundharasaxena/vasundharasaxena/blob/main/HI%2C%20I%20AM%20VASUNDHARA%20SAXENA.png)
+
 <h1 style="color: #44AEFB;" align="center"> 👨🏻‍💻 WHAT'S UP, DATA NERDS!! </h1>
 <h3 align="center"><i>Responsible and well disciplined with good judgement, time management and oriented schedule. Frequently praised as hardworking by my peers. Demonstrated a commitment to continuous learning and professional development. With a passion for problem-solving and a collaborative approach to work, committed to deliver high quality results that drive business success. Seeking new challenges everyday and opportunities to grow my skills.</i></h3><br>
 
