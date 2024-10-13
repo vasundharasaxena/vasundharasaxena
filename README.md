@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning and practicing **full stack development**
 
-- 📫 You can to reach me out through my e-mail **ishisaxena2003@gmail.com ** or phone number **+91 9305340512**
+- 📫 You can to reach me out through my:
+- - **Email**: [archdesai.ad@gmail.com](ishisaxena2003@gmail.com)
+- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/vasundharasaxena/)
 
 - ⚡ Fun fact **I am funny & sarcastic😅**
 
