@@ -1,11 +1,12 @@
 
-<h2 style="color: #44AEFB;" align="center"> 👨🏻‍💻 HELLO, DATA NERDS!! </h2>
+<h2 style="color: #44AEFB;" align="center"> 👨🏻‍💻 Hi There, DATA NERDS!! </h2>
 <h4 align="justify">Passionate Data Scientist and AI Enthusiast seeking to leverage expertise in data analysis, deep learning, and machine learning in impactful roles. Adept at designing and implementing predictive models, I excel in transforming complex datasets into actionable insights that drive business decisions.
 
 <br>With experience across data visualization, data engineering, and AI development, I have delivered projects that improve efficiency and accuracy. My skills include working with cross-functional teams, employing advanced analytics, and utilizing cutting-edge technologies to build scalable solutions.
 
 Committed to continuous learning, I stay updated on the latest advancements in AI and machine learning, aiming to contribute to projects that push the boundaries of data-driven innovation.</h4><br>
 
+Check out my [Portfolio](https://vasundharasaxena.github.io/projects/) for all of my projects, micro-projects, skills, certificates, and achievements. 
 
 <img align = "right" alt = "coding" width = "230" src = "https://media.tenor.com/6PUE1PAsXQUAAAAd/scaler-create-impact.gif">
 
