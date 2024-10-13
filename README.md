@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning and practicing **full stack development**
 
 - 📫 You can to reach me out through my:
-- - **Email**: [ishisaxena2003@gmail.com](ishisaxena2003@gmail.com)
+  - **Email**: [ishisaxena2003@gmail.com](ishisaxena2003@gmail.com)
   - **LinkedIn**: [linkedin.com/vasundharasaxena](https://www.linkedin.com/in/vasundharasaxena/)
 
 - ⚡ Fun fact **I am funny & sarcastic😅**
