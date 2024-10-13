@@ -8,14 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasundharasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="vasundharasaxena" /> </p>
 
 - 🔭 Completed my B.Tech in Computer Science Enginerring (Data Science (AI & ML)) with UpGrad in 2024
-
-- 🌱 I’m currently learning and practicing **full stack development**
-
 - 📫 You can to reach me out through my:
   - **Email**: [ishisaxena2003@gmail.com](ishisaxena2003@gmail.com)
   - **LinkedIn**: [linkedin.com/vasundharasaxena](https://www.linkedin.com/in/vasundharasaxena/)
-
-- ⚡ Fun fact **I am funny & sarcastic😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
