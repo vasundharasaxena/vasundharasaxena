@@ -4,7 +4,7 @@
 
 <br>With experience across data visualization, data engineering, and AI development, I have delivered projects that improve efficiency and accuracy. My skills include working with cross-functional teams, employing advanced analytics, and utilizing cutting-edge technologies to build scalable solutions.
 
-Committed to continuous learning, I stay updated on the latest advancements in AI and machine learning, aiming to contribute to projects that push the boundaries of data-driven innovation.</h4><br>
+Committed to continuous learning, I stay updated on the latest advancements in AI and machine learning, aiming to contribute to projects that push the boundaries of data-driven innovation.</h4>
 
 Check out my [Portfolio](https://vasundharasaxena.github.io/projects/) for all of my projects, micro-projects, skills, certificates, and achievements. 
 
