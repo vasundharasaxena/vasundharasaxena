@@ -6,7 +6,7 @@
 
 Committed to continuous learning, I stay updated on the latest advancements in AI and machine learning, aiming to contribute to projects that push the boundaries of data-driven innovation.</h4>
 
-Check out my [Portfolio](https://vasundharasaxena.github.io/projects/) for all of my projects, micro-projects, skills, certificates, and achievements. 
+Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my projects, micro-projects, skills, certificates, and achievements. 
 
 <img align = "right" alt = "coding" width = "230" src = "https://media.tenor.com/6PUE1PAsXQUAAAAd/scaler-create-impact.gif">
 
