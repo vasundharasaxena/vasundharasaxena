@@ -21,19 +21,21 @@ Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my proj
 
 ## <img src='.github/workflows/tech.gif' height=30/> Socials:
 <div align ='center'>
-<a href="[https://www.linkedin.com/in/vasundharasaxena/](https://www.linkedin.com/in/vasundharasaxena/)" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="ishisaxena2003@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/ishisaxena2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishisaxena2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vasundharasaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasundharasaxena" height="30" width="40" /></a>
+<a href= "https://www.linkedin.com/in/vasundharasaxena/"><img align="center" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="ishisaxena2003@gmail.com"><img align="center" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://instagram.com/ishuubeingissue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssh.harhsu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ishisaxena2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishisaxena2003" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ishi_0091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ghsharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vasundharasaxena"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasundharasaxena" height="30" width="40" /></a>
 </div>
 <hr>
 
 <h2 align="left">Languages and Tools:</h2>
-
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,mysql,php,mongodb,linux,java,git,firebase,cloudflare,postman,heroku,docker,figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=python,r,java,cpp,git,linux,aws,gcp,mysql,postgres,sqlite,mongodb,docker,pytorch,tensorflow,anaconda,html,css,bash,flask,github,ai,opencv,sklearn,vscode" />
 </div>
 <hr>
+
 
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
@@ -53,9 +55,3 @@ Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my proj
 <div align='center'>
 <img src='https://github-profile-trophy.vercel.app/?username=vasundharasaxena&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
 <div>
-
-
-
-
-
-
