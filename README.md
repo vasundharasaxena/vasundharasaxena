@@ -31,11 +31,11 @@ Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my proj
 <hr>
 
 <h2 align="left">Languages and Tools:</h2>
-
 <div align='center'>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,mysql,php,mongodb,linux,java,git,firebase,cloudflare,postman,heroku,docker,figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=python,r,java,cpp,git,linux,aws,gcp,mysql,postgres,sqlite,mongodb,docker,pytorch,tensorflow,anaconda,html,css,bash,flask,github,ai,opencv,sklearn,vscode" />
 </div>
 <hr>
+
 
 |Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
 |---|---|---|
