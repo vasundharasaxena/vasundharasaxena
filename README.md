@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=vasundharasaxena)
+[![Github](https://img.shields.io/github/followers/vasundharasaxena?label=Follow&style=social)](https://github.com/vasundharasaxena)
 
 <h2 style="color: #44AEFB;" align="center"> 👨🏻‍💻 Hi There, DATA NERDS!! </h2>
 <h4 align="justify">Passionate Data Scientist and AI Enthusiast seeking to leverage expertise in data analysis, deep learning, and machine learning in impactful roles. Adept at designing and implementing predictive models, I excel in transforming complex datasets into actionable insights that drive business decisions.
@@ -22,9 +24,9 @@ Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my proj
  <a href="[https://www.linkedin.com/in/vasundharasaxena](https://www.linkedin.com/in/vasundharasaxena/)" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="ishisaxena2003@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </div>
-
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+
+<h2 align="left">Languages and Tools:</h2>
 
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,mysql,php,mongodb,linux,java,git,firebase,cloudflare,postman,heroku,docker,figma,photoshop" />
