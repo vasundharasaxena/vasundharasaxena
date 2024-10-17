@@ -31,10 +31,10 @@ const vasundharasaxena = {
 <div align ='center'>
 <a href= "https://www.linkedin.com/in/vasundharasaxena/"><img align="center" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:ishisaxena2003@gmail.com"><img align="center" alt="Gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://instagram.com/ishuubeingissue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssh.harhsu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ishisaxena2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishisaxena2003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ishi_0091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ghsharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vasundharasaxena"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasundharasaxena" height="30" width="40" /></a>
+<a href="https://instagram.com/ishuubeingissue" target="blank"> <img align="center" alt="Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/ishisaxena2003"><img align="center" alt="HackerRank" height="30px" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ishisaxena2003" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ishi_0091" target="blank"> <img align="center" alt="CodeChef" height="30px" width="100px" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+<a href="https://www.leetcode.com/vasundharasaxena"><img align="center" alt="LeetCode" height="30px" width="100px" src="https://img.shields.io/badge/LeetCode-FE4F00?style=for-the-badge&logo=LeetCode&logoColor=white&color=FFD700" /></a>
 </div>
 <hr>
 
