@@ -21,8 +21,10 @@ Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my proj
 
 ## <img src='.github/workflows/tech.gif' height=30/> Socials:
 <div align ='center'>
- <a href="[https://www.linkedin.com/in/vasundharasaxena](https://www.linkedin.com/in/vasundharasaxena/)" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/vasundharasaxena/](https://www.linkedin.com/in/vasundharasaxena/)" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 <a href="ishisaxena2003@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/ishisaxena2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishisaxena2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vasundharasaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasundharasaxena" height="30" width="40" /></a>
 </div>
 <hr>
 
