@@ -1,28 +1,36 @@
 ![](https://komarev.com/ghpvc/?username=vasundharasaxena)
 [![Github](https://img.shields.io/github/followers/vasundharasaxena?label=Follow&style=social)](https://github.com/vasundharasaxena)
 
-<h2 style="color: #44AEFB;" align="center"> 👨🏻‍💻 Hi There, DATA NERDS!! </h2>
+<h2 style="color: #44AEFB;" align="center"> 👨🏻‍💻 HI THERE, DATA NERDS!! </h2>
 <h4 align="justify">Passionate Data Scientist and AI Enthusiast seeking to leverage expertise in data analysis, deep learning, and machine learning in impactful roles. Adept at designing and implementing predictive models, I excel in transforming complex datasets into actionable insights that drive business decisions.
 
 <br>With experience across data visualization, data engineering, and AI development, I have delivered projects that improve efficiency and accuracy. My skills include working with cross-functional teams, employing advanced analytics, and utilizing cutting-edge technologies to build scalable solutions.
 
 Committed to continuous learning, I stay updated on the latest advancements in AI and machine learning, aiming to contribute to projects that push the boundaries of data-driven innovation.</h4>
 
-Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my projects, micro-projects, skills, certificates, and achievements. 
+<h3 align="left">About Me:</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasundharasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="vasundharasaxena" /> </p>
+```javascript
+const vasundharasaxena = {
+  fullName: "Vasundhara Saxena",
+  pronouns: "She/Her",
+  tags: ["Data Science Enthusiast❤️", "Generative AI Explorer🤖", "Machine Learning🧠", "Deep Learning🧬", "Data Visualization🎨"],
+  askMeAbout: ["Artificial Intelligence", "Natural Language Processing", "Computer Vision", "Machine Learning Algorithms", "APIs"],
+  reachMeOut: ["ishisaxena2003@gmail.com"],
+  myWork: ["https://vasundharasaxena.github.io/"],
+  toFindMeUsername: "@vasundharasaxena"
+};
+```
 
 - 🔭 Completed my B.Tech in Computer Science Engineering (Data Science (AI & ML)) with UpGrad in 2024
 - 📫 You can to reach me out through my:
-  - **Email**: [ishisaxena2003@gmail.com](ishisaxena2003@gmail.com)
+  - **Email**: [ishisaxena2003@gmail.com](mailto:ishisaxena2003@gmail.com)
   - **LinkedIn**: [linkedin.com/vasundharasaxena](https://www.linkedin.com/in/vasundharasaxena/)
 
 ## <img src='.github/workflows/tech.gif' height=30/> Socials:
 <div align ='center'>
 <a href= "https://www.linkedin.com/in/vasundharasaxena/"><img align="center" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="ishisaxena2003@gmail.com"><img align="center" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:ishisaxena2003@gmail.com"><img align="center" alt="Gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://instagram.com/ishuubeingissue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssh.harhsu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ishisaxena2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishisaxena2003" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ishi_0091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ghsharma" height="30" width="40" /></a>
