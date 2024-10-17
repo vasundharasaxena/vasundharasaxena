@@ -8,7 +8,7 @@ Committed to continuous learning, I stay updated on the latest advancements in A
 
 Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my projects, micro-projects, skills, certificates, and achievements. 
 
-<img align = "right" alt = "coding" width = "230" src = "https://media.tenor.com/6PUE1PAsXQUAAAAd/scaler-create-impact.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasundharasaxena&label=Profile%20views&color=0e75b6&style=flat" alt="vasundharasaxena" /> </p>
 
@@ -17,15 +17,41 @@ Check out my [Portfolio](https://vasundharasaxena.github.io/) for all of my proj
   - **Email**: [ishisaxena2003@gmail.com](ishisaxena2003@gmail.com)
   - **LinkedIn**: [linkedin.com/vasundharasaxena](https://www.linkedin.com/in/vasundharasaxena/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vasundharasaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasundharasaxena" height="30" width="40" /></a>
-<a href="https://instagram.com/ishiitaasaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishiitaasaxena" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ishi_0091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ishi_0091" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ishisaxena2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ishisaxena2003" height="30" width="40" /></a>
-</p>
+## <img src='.github/workflows/tech.gif' height=30/> Socials:
+<div align ='center'>
+ <a href="[https://www.linkedin.com/in/vasundharasaxena](https://www.linkedin.com/in/vasundharasaxena/)" ><img align="left" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="ishisaxena2003@gmail.com"><img align="left" alt="Maira gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</div>
 
+<hr>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<div align='center'>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,mysql,php,mongodb,linux,java,git,firebase,cloudflare,postman,heroku,docker,figma,photoshop" />
+</div>
+<hr>
+
+|Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
+|---|---|---|
+|[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vasundharasaxena&theme=gruvbox)](https://github.com/vasundharasaxena/)|[![GitHub Streak](https://streak-stats.demolab.com?user=vasundharasaxena&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/vasundharasaxena/)|[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vasundharasaxena&theme=gruvbox)](https://github.com/vasundharasaxena/)
+
+
+<a href='https://github.com/vasundharasaxena/'>
+<div align='center'>
+<img src='https://github.com/vasundharasaxena/vasundharasaxena/blob/output/github-contribution-grid-snake.svg'/>
+</div></a>
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasundharasaxena&bg_color=282624&color=d68a1f&line=a8a8a8&point=b05907&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align='center'>
+<img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' width=75%/></div>
+
+## 🏆 GitHub Trophies
+<div align='center'>
+<img src='https://github-profile-trophy.vercel.app/?username=vasundharasaxena&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4' width=75%/>
+<div>
+
+
+
+
 
 
